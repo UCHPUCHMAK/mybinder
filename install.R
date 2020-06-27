@@ -1,3 +1,7 @@
 install.packages("readr")
 install.packages('ggplot2')
 install.packages('lmtest')
+install.packages('tidyverse')
+install.packages('skimr')
+install.packages('bstats')
+install.packages('tidyr')
